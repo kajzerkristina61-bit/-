@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document><name>Коктал</name><Style id="style">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style0">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style1">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style12">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style19">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style22">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style23">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style2701">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style3">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style4">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style616">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="style7">
+		<LineStyle>
+			<color>fff25b4e</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="stylemap_id0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id0706">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style2701</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style616</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="stylemap_id43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style>
+				<ListStyle>
+					<listItemType>check</listItemType>
+					<bgColor>00ffffff</bgColor>
+					<maxSnippetLines>2</maxSnippetLines>
+				</ListStyle>
+			</Style>
+			<Placemark>
+			<name>Коктал</name>
+			<description>16.06.2026 19:37:06</description>
+			<styleUrl>#stylemap_id0706</styleUrl>
+			<LineString>
+				<extrude>1</extrude>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<coordinates>
+					64.65000000000001,52.2333333333333,0 64.7,52.2333333333333,0 64.7,52.0666666666667,0 64.59999999999999,52.0666666666667,0 64.59999999999999,52.16666666666671,0 64.6166666666667,52.16666666666671,0 64.6166666666667,52.1833333333333,0 64.6333333333333,52.1833333333333,0 64.6333333333333,52.2,0 64.65000000000001,52.2,0 64.65000000000001,52.2333333333333,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		</Document>
+</kml>
